@@ -1,4 +1,6 @@
-## Hi there 👋
+## Sup, I'm realconebob
+
+Hey, I'm Connor, a student studying Computer Science at the University of Minnesota: Duluth. I've been dabbling in computers for a long time, and hope to get an even deeper appreciation of how they function in my studies. I'm most interested in cybersecurity, parallel, and distributed computing
 
 <!--
 **realconebob/realconebob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
